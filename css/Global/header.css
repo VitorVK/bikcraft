@@ -21,7 +21,7 @@
 }
 
 .header-menu a {
-  color: #fff;
+  color: var(--c0);
   display: inline-block;
   padding: 16px 0px;
   font-size: 1.125rem;
@@ -36,7 +36,7 @@
   height: 2px;
   width: 0px;
   position: absolute;
-  background-color: #fff;
+  background-color: var(--c0);
   margin-top: 4px;
 }
 
