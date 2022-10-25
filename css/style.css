@@ -1,5 +1,5 @@
-@import "./reset.css";
-@import "./utilitários.css";
-@import "./header.css";
-@import "./introducao.css";
-@import "./media.css";
+@import "./Global/reset.css";
+@import "./Utilidades/utilitários.css";
+@import "./Global/header.css";
+@import "./Home/introducao.css";
+@import "./Utilidades/media.css";
