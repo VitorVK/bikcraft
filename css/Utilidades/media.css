@@ -83,3 +83,12 @@
   }
 }
 
+@media (max-width: 800px) {
+  .bicicletas-listas {
+    padding-bottom: 60px;
+  }
+  .bicicletas-listas ul {
+    gap: 20px;
+  }
+}
+
