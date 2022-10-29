@@ -214,3 +214,26 @@
     grid-template-columns: 1fr;
   }
 }
+
+@media (max-width: 800px) {
+  .vantagens {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .vantagens h2 {
+    margin-bottom: 40px;
+  }
+  .vantagens ul {
+    gap: 20px;
+  }
+}
+
+@media (max-width: 800px) {
+  .perguntas {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .perguntas h2 {
+    margin-bottom: 40px;
+  }
+}
